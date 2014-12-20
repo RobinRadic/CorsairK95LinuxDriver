@@ -1,0 +1,6 @@
+/home/radic/corsairk95/corsair/config/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/radic/corsairk95/corsair/config/obj/x86/Release/config.gtk-gui.gui.stetic
+/home/radic/corsairk95/corsair/config/bin/Release/config.exe.mdb
+/home/radic/corsairk95/corsair/config/bin/Release/config.exe
+/home/radic/corsairk95/corsair/config/obj/x86/Release/config.exe
+/home/radic/corsairk95/corsair/config/obj/x86/Release/config.exe.mdb

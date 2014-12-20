@@ -34,6 +34,8 @@ Date of last change: 3-Sept-2005
 #include <unistd.h>
 #include <stdio.h>
 
+
+
 #ifndef EV_SYN
 #define EV_SYN 0
 #endif
@@ -47,8 +49,13 @@ main (int argc, char **argv)
 	unsigned short id[4];
 	char name[256] = "Unknown";
 
+    char cwd[1024]; // @radic: get current working dir
+
+
+
 	if (argc < 2)
 	{
+
 		printf("Usage: %s /dev/input/eventX\n", argv[0]);
 		printf("Where X = input device number\n");
 		return 1;
@@ -96,7 +103,7 @@ main (int argc, char **argv)
 				{
 					char buffer[200]; 
                                         
-					sprintf(buffer, "/home/radic/k95/LCCD_core.sh %d", ev[i].value);
+					sprintf(buffer, "/home/radic/corsairk95/LCCD_core.sh %d", ev[i].value);
 					
 				  	int returnvalue = system(buffer);
 				}

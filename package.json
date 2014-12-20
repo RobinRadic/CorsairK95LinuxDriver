@@ -1,0 +1,19 @@
+{
+  "name": "radic-corsair-k95-driver",
+  "version": "1.0.0",
+  "description": "Corsair k95 keyboard support for linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobinRadic/CorsairK95LinuxDriver"
+  },
+  "author": "Robin Radic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinRadic/CorsairK95LinuxDriver/issues"
+  },
+  "homepage": "https://github.com/RobinRadic/CorsairK95LinuxDriver"
+}

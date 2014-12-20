@@ -1,0 +1,17 @@
+﻿<Properties>
+  <AuthorInfo Name="Robin Radic" Email="robin@radic.nl" Copyright="Robin Radic" Company="Radic Technologies" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="config/MainWindow.cs">
+    <Files>
+      <File FileName="config/Program.cs" Line="1" Column="1" />
+      <File FileName="config/MainWindow.cs" Line="32" Column="32" />
+      <File FileName="config/KeyConfig.cs" Line="1" Column="1" />
+      <File FileName="config/ConfigK.cs" Line="1" Column="1" />
+      <File FileName="config/ConfigKey.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
